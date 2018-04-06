@@ -1,2 +1,2 @@
 # jOptimizer
-Library to find optimum solutions to functions
+Library to find optimize functions
